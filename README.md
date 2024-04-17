@@ -20,7 +20,7 @@
   
   - 🌱 I’m currently learning *Python, Javascript, Html, Css, etc.*
   
-  - 💬 Ask me about *Python*
+  - 💬 Ask me about *Web Application Development | Web Design | HTML-5 | CSS | Bootstrap | JavaScript | PHP with Laravel-10 Framework | MySQL*
   
   - 📫 How to reach me *jannatulnayeem333@gmail.com*
   
