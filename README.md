@@ -1,66 +1,84 @@
+<h1 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h1>
+<h4 align="center">  " Welcome To my Profile 💐 " </h4>
+<a href="#"><img width="100%" height="auto" src=" https://www.google.com/search?q=welcome+png&tbm=isch&rlz=1C1CHBD_enBD926BD926&hl=bn&sa=X&ved=2ahUKEwiOzIeh4vnzAhVwxXMBHcd_AtoQrNwCKAB6BQgBEPIB&biw=1903&bih=937#imgrc=QVKu3dwuwhfwtM&imgdii=3cczAJ7jBgB3JM" height="175px"/></a>
+<h5 align="center">I am a student of computer science and  engineering,I like to learn always new things.I had already learned some language which will good for my future work.Always pray for me as if  I can be a better engineer.
+</h5>
+
+## 🙋‍♂️ About Me
+- 🔭 I’m currently working on *A PHP Project*
+
+- 🌱 I’m currently learning *Laravel*
+
+- 👯 I’m looking to collaborate on *YouTube*
+
+- 🤝 I’m looking for help with *PHP language*
+
+- 👨‍💻 All of my projects are available at [https://github.com/ArifHossen005](https://github.com/ArifHossen005)
+
+- 📝 I regularly write articles on [https://www.facebook.com/iamarifhossen](https://www.facebook.com/iamarifhossen)
+
+- 💬 Ask me about *Ict Related Question*
+
+- 📫 How to reach me *subug005@gmail.com*
+
+- 📄 Know about my experiences in latex also basic knowledge of C programming. JAVA. DATABASE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Languages and Tools:
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> </a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/material-sharp/48/000000/github.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/phpstorm-1.png"/> </a>
+</p>
+
+
+<br/>
 <p align="center">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1020">
-  </p>
-  
-  
-  <h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me Jannatul Nayeem</h1>
-  <h3 align="center">An Enthusiastic Programmer</h3>
-  
-  <p align="center">
-    <img src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s" width="190">
-  </p>
-  
-  <!-- <a href="https://ibb.co/LzjLpzN"><img src="https://i.ibb.co/zh9yfh6/github-header-image-1.png" alt="github-header-image-1" border="0" width="700"</a>
-  <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s">
-  <img src="https://media.tenor.com/74l5y1hUdtwAAAAj/pokemon.gif" width="160">
-  <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"> -->
-  
-  
-  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-  
-  - 🌱 I’m currently learning *JavaScript.*
-  
-  - 💬 Ask me about *Web Application Development | Web Design | HTML-5 | CSS | Bootstrap | JavaScript | PHP with Laravel-10 Framework | MySQL*
-  
-  - 📫 How to reach me *jannatulnayeem333@gmail.com*
-  
-  <!--Connect-->
-  
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://www.facebook.com/limonalahasan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="limon ahsan" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/jannatul-nayeem-8825b9168/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="limon ahsan" height="30" width="40" /></a>
-  </p>
-  
-  <!--Languages and Tools-->
-  
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> 
-    <!-- Update your languages and tools here -->
-  </p>
-  
-  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tasnuba106&show_icons=true&locale=en&layout=compact" alt="Tasnuba106" /></p> -->
-  
-  <!-- Statistics -->
-  
-  <h2 style="color: #44AEFB">📊 Statistics</h2>
-  
-  ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-  
-  <!-- Begin Stats Cards -->
-  <!-- Resources:  -->
-  <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-  <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-  <!-- Change the value after ?username= to your GitHub username. -->
-  <br clear="both">
+    <img title="🔥 GitHub Streak Stats" alt="Arif Hossen's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArifHossen005&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
 
-<div class="stats" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&border_radius=20&username=nayeem337" alt="stats graph" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem337=en&layout=compact&show_icons=true&theme=algolia&border_radius=20" height="150"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Tasnuba106&count_public=true&theme=algolia&border_radius=20" height="170"/>
-  <br>
-  <img src="https://stats.quine.sh/Tasnuba106/github?theme=dark" height="290"/>
+## 📊 My Github Stats
+<br/>
+<p align="center">
+    <a href="https://github.com/ArifHossen005/github-readme-stats"><img alt="MD.Arif Hossen  Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArifHossen005&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
 
-  </div>
-<!--  End Stats Cards -->
+<br/>
+
+## 💻 Top Languages
+<br/>
+<p align="center">
+    <a href="https://github.com/ArifHossen005/github-readme-stats"><img alt="MD.Arif Hossen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHossen005&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+<br/>
+
+## 📈 My Activity Graph
+<br/>
+<p align="center">
+    <a href="https://github.com/ArifHossen005/github-readme-activity-graph"><img alt="MD.Arif Hossen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArifHossen005&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
