@@ -28,8 +28,8 @@
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://www.facebook.com/limonalahasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="limon ahsan" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/jannatul-nayeem-8825b9168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="limon ahsan" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/limonalahasan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="limon ahsan" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/jannatul-nayeem-8825b9168/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="limon ahsan" height="30" width="40" /></a>
   </p>
   
   <!--Languages and Tools-->
