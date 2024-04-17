@@ -3,7 +3,7 @@
   </p>
   
   
-  <h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me Limon ahsan</h1>
+  <h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me Jannatul Nayeem</h1>
   <h3 align="center">An Enthusiastic Programmer</h3>
   
   <p align="center">
@@ -22,7 +22,7 @@
   
   - 💬 Ask me about *Python*
   
-  - 📫 How to reach me *limon@gmail.com*
+  - 📫 How to reach me *jannatulnayeem333@gmail.com*
   
   <!--Connect-->
   
