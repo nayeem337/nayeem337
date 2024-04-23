@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayeem337](https://github.com/nayeem337)
 
-- 💬 Ask me about *Ict Related Question*
-
 - 📫 How to reach me *subug005@gmail.com*
 
 
