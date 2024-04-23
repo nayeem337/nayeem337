@@ -1,7 +1,7 @@
 <h1 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h1>
 <h4 align="center">  " Welcome To my Profile 💐 " </h4>
 <a href="#"><img width="100%" height="auto" src=" https://www.google.com/search?q=welcome+png&tbm=isch&rlz=1C1CHBD_enBD926BD926&hl=bn&sa=X&ved=2ahUKEwiOzIeh4vnzAhVwxXMBHcd_AtoQrNwCKAB6BQgBEPIB&biw=1903&bih=937#imgrc=QVKu3dwuwhfwtM&imgdii=3cczAJ7jBgB3JM" height="175px"/></a>
-<h5 align="center">I am a student of computer science and  engineering,I like to learn always new things.I had already learned some language which will good for my future work.Always pray for me as if  I can be a better engineer.
+<h5 align="center">I am a student of computer science and  engineering, I like to learn always new things. I have already learned some languages which will be good for my future work. Always pray for me as if  I can be a better engineer.
 </h5>
 
 ## 🙋‍♂️ About Me
@@ -9,19 +9,13 @@
 
 - 🌱 I’m currently learning *Laravel*
 
-- 👯 I’m looking to collaborate on *YouTube*
-
 - 🤝 I’m looking for help with *PHP language*
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArifHossen005](https://github.com/ArifHossen005)
-
-- 📝 I regularly write articles on [https://www.facebook.com/iamarifhossen](https://www.facebook.com/iamarifhossen)
+- 👨‍💻 All of my projects are available at [https://github.com/nayeem337](https://github.com/nayeem337)
 
 - 💬 Ask me about *Ict Related Question*
 
 - 📫 How to reach me *subug005@gmail.com*
-
-- 📄 Know about my experiences in latex also basic knowledge of C programming. JAVA. DATABASE.
 
 
 
@@ -58,13 +52,13 @@
 
 <br/>
 <p align="center">
-    <img title="🔥 GitHub Streak Stats" alt="Arif Hossen's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArifHossen005&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="🔥 GitHub Streak Stats" alt="Jannatul Nayeem GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem337&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 ## 📊 My Github Stats
 <br/>
 <p align="center">
-    <a href="https://github.com/ArifHossen005/github-readme-stats"><img alt="MD.Arif Hossen  Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArifHossen005&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nayeem337/github-readme-stats"><img alt="Jannatul Nayeem  Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayeem337&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br/>
@@ -72,7 +66,7 @@
 ## 💻 Top Languages
 <br/>
 <p align="center">
-    <a href="https://github.com/ArifHossen005/github-readme-stats"><img alt="MD.Arif Hossen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHossen005&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nayeem337/github-readme-stats"><img alt="Jannatul Nayeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem337&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br/>
@@ -80,5 +74,5 @@
 ## 📈 My Activity Graph
 <br/>
 <p align="center">
-    <a href="https://github.com/ArifHossen005/github-readme-activity-graph"><img alt="MD.Arif Hossen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArifHossen005&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/nayeem337/github-readme-activity-graph"><img alt="Jannatul Nayeem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayeem337&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
