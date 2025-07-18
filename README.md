@@ -1,12 +1,10 @@
 <h1 align="center"><span style="color: brown">✨ Assalamu Alaikum ✨</span></h1>
 <h3 align="center">🌸 Welcome To My GitHub Profile 🌸</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nayeem337/nayeem337/main/assets/welcome-banner.png" alt="Welcome Banner" width="80%" />
-</p>
+
 
 <h5 align="center">
-  I’m a Computer Science & Engineering student who is passionate about learning new technologies.<br>
+  I’m a computer science and engineering student who is passionate about learning new technologies.<br>
   I’ve already explored several programming languages and frameworks, especially in web development.<br>
   Please keep me in your prayers as I continue this exciting journey to become a better engineer.
 </h5>
