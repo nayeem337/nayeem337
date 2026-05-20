@@ -1,64 +1,85 @@
-👋 Hi, I'm Nayeem
+# 👋 Hi, I'm Nayeem  
 
-🚀 PHP & Laravel Developer | REST API Specialist | Backend Enthusiast
+🚀 **PHP & Laravel Developer | REST API Specialist | Backend Enthusiast**  
 
-I am a passionate PHP & Laravel Developer focused on building secure, scalable, and high-performance web applications.
-I enjoy designing clean backend architectures, developing RESTful APIs, and optimizing databases to ensure smooth and efficient system performance.
+I am a passionate **PHP & Laravel Developer** focused on building **secure, scalable, and high-performance web applications**.  
+I enjoy designing clean backend architectures, developing **RESTful APIs**, and optimizing databases to ensure smooth and efficient system performance.  
 
-I believe in writing clean, maintainable, and reusable code, following best practices and modern development standards.
+I believe in writing **clean, maintainable, and reusable code**, following best practices and modern development standards.  
 
-🧑‍💻 About Me
+---
 
-💼 Junior PHP & Laravel Developer with 1+ years of hands-on experience in developing dynamic web applications
-🌱 Currently improving skills in Advanced Laravel, REST API Architecture, and Database Optimization
-⚡ Passionate about writing clean code, following SOLID principles, and applying best development practices
-🛠 Strong interest in backend development, system performance, and scalable project architecture
-🤝 Open to collaboration and excited to contribute to real-world web development projects
-🔥 What I'm Currently Working On
-🔭 Developing Laravel-based Web Applications and RESTful APIs
-🌱 Learning Backend Architecture, System Design, and Advanced Laravel Concepts
-🛠 Improving skills in Query Optimization, Database Design, and Performance Tuning
-👯 Open to collaborating on Laravel / PHP / API-based Projects
-🛠 Tech Stack & Skills
-🔧 Backend Development
-PHP (8.x+)
-Laravel (11.x)
-RESTful API Development
-Authentication & Authorization (RBAC)
-CRUD Operations & MVC Architecture
-API Security (Token-based authentication, validation, middleware)
-🗄 Database
-MySQL
-Database Design & Optimization
-Relationships, Joins, Indexing
-Query Optimization & Performance Improvement
-🎨 Frontend Development
-HTML5, CSS3
-JavaScript
-Tailwind CSS
-Bootstrap
-jQuery
-⚙ Tools & Workflow
-Git & GitHub
-Postman
-VS Code
-Debugging & API Testing
-💬 Ask Me About
+## 🧑‍💻 About Me  
 
-✅ PHP & Laravel Web Development
-✅ REST API Development & Integration
-✅ MySQL Database Design & Optimization
-✅ Backend Development Best Practices
-✅ Full-stack Web Applications
+- 💼 Junior PHP & Laravel Developer with **1+ years** of hands-on experience in developing dynamic web applications  
+- 🌱 Currently improving skills in **Advanced Laravel**, **REST API Architecture**, and **Database Optimization**  
+- ⚡ Passionate about writing clean code, following **SOLID principles**, and applying best development practices  
+- 🛠 Strong interest in backend development, system performance, and scalable project architecture  
+- 🤝 Open to collaboration and excited to contribute to real-world web development projects  
 
-📫 Contact Me
+---
 
-📧 Email: jannatulnayeem333@gmail.com
-💼 LinkedIn: LinkedIn Profile
+## 🔥 What I'm Currently Working On  
 
-⚡ Fun Fact
+- 🔭 Developing **Laravel-based Web Applications** and **RESTful APIs**  
+- 🌱 Learning **Backend Architecture**, **System Design**, and **Advanced Laravel Concepts**  
+- 🛠 Improving skills in **Query Optimization**, **Database Design**, and **Performance Tuning**  
+- 👯 Open to collaborating on **Laravel / PHP / API-based Projects**  
 
-❤️ I enjoy solving real-world problems through code and building scalable web solutions that make life easier.
+---
+
+## 🛠 Tech Stack & Skills  
+
+### 🔧 Backend Development  
+- PHP (8.x+)  
+- Laravel (11.x)  
+- RESTful API Development  
+- Authentication & Authorization (RBAC)  
+- CRUD Operations & MVC Architecture  
+- API Security (Token-based authentication, validation, middleware)  
+
+### 🗄 Database  
+- MySQL  
+- Database Design & Optimization  
+- Relationships, Joins, Indexing  
+- Query Optimization & Performance Improvement  
+
+### 🎨 Frontend Development  
+- HTML5, CSS3  
+- JavaScript  
+- Tailwind CSS  
+- Bootstrap  
+- jQuery  
+
+### ⚙ Tools & Workflow  
+- Git & GitHub  
+- Postman  
+- VS Code  
+- PhpStorm  
+- Debugging & API Testing  
+
+---
+
+## 💬 Ask Me About  
+
+✅ PHP & Laravel Web Development  
+✅ REST API Development & Integration  
+✅ MySQL Database Design & Optimization  
+✅ Backend Development Best Practices  
+✅ Full-stack Web Applications  
+
+---
+
+## 📫 Contact Me  
+
+📧 Email: **jannatulnayeem333@gmail.com**  
+💼 LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/in/jannatul-nayeem-8825b9168/)**  
+
+---
+
+## ⚡ Fun Fact  
+
+❤️ I enjoy solving real-world problems through code and building scalable web solutions that make life easier.  
 
 
 
