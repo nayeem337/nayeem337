@@ -1,3 +1,5 @@
+👋 Hi, I'm Nayeem
+
 🚀 PHP & Laravel Developer | REST API Specialist | Backend Enthusiast
 
 I am a passionate PHP & Laravel Developer focused on building secure, scalable, and high-performance web applications.
@@ -6,6 +8,7 @@ I enjoy designing clean backend architectures, developing RESTful APIs, and opti
 I believe in writing clean, maintainable, and reusable code, following best practices and modern development standards.
 
 🧑‍💻 About Me
+
 💼 Junior PHP & Laravel Developer with 1+ years of hands-on experience in developing dynamic web applications
 🌱 Currently improving skills in Advanced Laravel, REST API Architecture, and Database Optimization
 ⚡ Passionate about writing clean code, following SOLID principles, and applying best development practices
