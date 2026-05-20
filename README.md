@@ -1,76 +1,65 @@
-<h1 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h1>
-<h4 align="center">  " Welcome To my Profile 💐 " </h4>
-<a href="#"><img width="100%" height="auto" src=" https://www.google.com/search?q=welcome+png&tbm=isch&rlz=1C1CHBD_enBD926BD926&hl=bn&sa=X&ved=2ahUKEwiOzIeh4vnzAhVwxXMBHcd_AtoQrNwCKAB6BQgBEPIB&biw=1903&bih=937#imgrc=QVKu3dwuwhfwtM&imgdii=3cczAJ7jBgB3JM" height="175px"/></a>
-<h5 align="center">I am a student of computer science and  engineering, I like to learn always new things. I have already learned some languages which will be good for my future work. Always pray for me as if  I can be a better engineer.
-</h5>
 
-## 🙋‍♂️ About Me
-- 🔭 I’m currently working on *A PHP Project*
+👋 Hi, I'm Nayeem
 
-- 🌱 I’m currently learning *Laravel*
+🚀 Web Developer | PHP & Laravel Enthusiast | REST API Developer
 
-- 🤝 I’m looking for help with *PHP language*
+I’m a passionate PHP & Laravel developer with hands-on experience in building modern, scalable, and user-friendly web applications. I enjoy solving real-world problems through clean code, efficient backend systems, and well-structured APIs.
 
-- 👨‍💻 All of my projects are available at [https://github.com/nayeem337](https://github.com/nayeem337)
+🧑‍💻 About Me
 
-- 📫 How to reach me *jannatulnayeem333@gmail.com*
+💼 Junior PHP & Laravel Developer with 1+ years of experience in designing, developing, and deploying dynamic web applications.
+🌱 Currently improving my skills in REST API Development, Backend Architecture, and Database Optimization.
+🤝 Open to collaboration and eager to contribute to meaningful web development projects.
+
+🔥 What I'm Currently Doing
+🔭 Working on Web Development Projects
+🌱 Learning Advanced Laravel, REST API Development, and Best Practices
+🛠 Enhancing skills in Backend Development & Database Management
+🤝 Collaboration
+👯 Open to collaborating on Laravel / PHP / Web Development Projects
+🤔 Interested in learning from experienced developers and contributing to team-based projects
+🛠 Tech Stack & Skills
+🔧 Backend Development
+PHP (8.x+)
+Laravel (11.x)
+RESTful API Development
+Authentication & Authorization (RBAC)
+🗄 Database
+MySQL
+Database Design & Optimization
+🎨 Frontend
+HTML5, CSS3
+JavaScript
+Tailwind CSS
+Bootstrap
+jQuery
+⚙ Tools & Version Control
+Git & GitHub
+VS Code
+💬 Ask Me About
+
+✅ PHP & Laravel Development
+✅ REST API Development
+✅ MySQL Database
+✅ Full-stack Web Applications
+
+📫 Contact Me
+
+📧 Email: jannatulnayeem333@gmail.com
+
+⚡ Fun Fact
+
+❤️ I love coding and enjoy building creative web solutions.
 
 
+## 🌐 Socials:
+[## 🌐 LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jannatul-nayeem-8825b9168/)
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anikmondol&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anikmondol&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anikmondol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-
-
-
-
-
-
-
-
-
-## 🚀 Languages and Tools:
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-<!--     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> </a> -->
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/material-sharp/48/000000/github.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/phpstorm-1.png"/> </a>
-</p>
-
-
-<br/>
-<p align="center">
-    <img title="🔥 GitHub Streak Stats" alt="Jannatul Nayeem GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem337&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-
-## 📊 My Github Stats
-<br/>
-<p align="center">
-    <a href="https://github.com/nayeem337/github-readme-stats"><img alt="Jannatul Nayeem  Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayeem337&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-<br/>
-
-## 💻 Top Languages
-<br/>
-<p align="center">
-    <a href="https://github.com/nayeem337/github-readme-stats"><img alt="Jannatul Nayeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem337&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-<br/>
-
-## 📈 My Activity Graph
-<br/>
-<p align="center">
-    <a href="https://github.com/nayeem337/github-readme-activity-graph"><img alt="Jannatul Nayeem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayeem337&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
