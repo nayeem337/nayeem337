@@ -1,45 +1,51 @@
-
 🚀 PHP & Laravel Developer | REST API Specialist | Backend Enthusiast
 
-I’m a passionate PHP & Laravel developer with strong hands-on experience in building modern, scalable, and secure web applications.
-I enjoy developing clean backend architectures, creating powerful REST APIs, and writing maintainable code that solves real-world problems efficiently.
+I am a passionate PHP & Laravel Developer focused on building secure, scalable, and high-performance web applications.
+I enjoy designing clean backend architectures, developing RESTful APIs, and optimizing databases to ensure smooth and efficient system performance.
+
+I believe in writing clean, maintainable, and reusable code, following best practices and modern development standards.
 
 🧑‍💻 About Me
-💼 Junior PHP & Laravel Developer with 1+ years of experience in developing dynamic web applications
-🌱 Currently improving my skills in Advanced Laravel, REST API Architecture, and Database Optimization
-⚡ Focused on writing clean, reusable, and scalable code
-🤝 Open to collaboration and excited to work on real-world impactful projects
-🔥 What I'm Currently Doing
-🔭 Working on Laravel-based Web Applications & REST APIs
-🌱 Learning Best Practices, Backend Architecture, and System Design
-🛠 Improving Database Performance & Query Optimization
-👯 Looking to collaborate on Laravel / PHP / API-based Projects
+💼 Junior PHP & Laravel Developer with 1+ years of hands-on experience in developing dynamic web applications
+🌱 Currently improving skills in Advanced Laravel, REST API Architecture, and Database Optimization
+⚡ Passionate about writing clean code, following SOLID principles, and applying best development practices
+🛠 Strong interest in backend development, system performance, and scalable project architecture
+🤝 Open to collaboration and excited to contribute to real-world web development projects
+🔥 What I'm Currently Working On
+🔭 Developing Laravel-based Web Applications and RESTful APIs
+🌱 Learning Backend Architecture, System Design, and Advanced Laravel Concepts
+🛠 Improving skills in Query Optimization, Database Design, and Performance Tuning
+👯 Open to collaborating on Laravel / PHP / API-based Projects
 🛠 Tech Stack & Skills
 🔧 Backend Development
 PHP (8.x+)
 Laravel (11.x)
 RESTful API Development
 Authentication & Authorization (RBAC)
-CRUD & MVC Architecture
+CRUD Operations & MVC Architecture
+API Security (Token-based authentication, validation, middleware)
 🗄 Database
 MySQL
 Database Design & Optimization
 Relationships, Joins, Indexing
-🎨 Frontend
+Query Optimization & Performance Improvement
+🎨 Frontend Development
 HTML5, CSS3
 JavaScript
 Tailwind CSS
 Bootstrap
 jQuery
-⚙ Tools & Version Control
+⚙ Tools & Workflow
 Git & GitHub
-VS Code
 Postman
+VS Code
+Debugging & API Testing
 💬 Ask Me About
 
-✅ Laravel & PHP Web Development
-✅ REST API Development
-✅ MySQL Database Design
+✅ PHP & Laravel Web Development
+✅ REST API Development & Integration
+✅ MySQL Database Design & Optimization
+✅ Backend Development Best Practices
 ✅ Full-stack Web Applications
 
 📫 Contact Me
@@ -49,7 +55,10 @@ Postman
 
 ⚡ Fun Fact
 
-❤️ I love coding and enjoy building creative and scalable web solutions.
+❤️ I enjoy solving real-world problems through code and building scalable web solutions that make life easier.
+
+
+
 
 
 ## 🌐 Socials:
