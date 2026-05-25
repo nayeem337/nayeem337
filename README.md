@@ -62,13 +62,13 @@ Currently focused on **backend architecture, API security, database optimization
 
 ## 💼 What I Can Help With
 
-- ✅ Laravel Web Application Development  
-- ✅ REST API Development & Integration  
-- ✅ Authentication & Authorization System  
-- ✅ Admin Panel & CRUD System Development  
-- ✅ MySQL Database Design & Optimization  
-- ✅ Backend Bug Fixing & Performance Improvement  
-- ✅ Clean Code & Laravel Best Practices  
+-  Laravel Web Application Development  
+-  REST API Development & Integration  
+-  Authentication & Authorization System  
+-  Admin Panel & CRUD System Development  
+-  MySQL Database Design & Optimization  
+-  Backend Bug Fixing & Performance Improvement  
+-  Clean Code & Laravel Best Practices  
 
 ---
 
