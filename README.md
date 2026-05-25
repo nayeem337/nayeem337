@@ -24,10 +24,10 @@ Currently focused on **backend architecture, API security, database optimization
 
 ## 🧠 Currently Working On
 
-- 🔭 Building **Laravel-based web applications and REST APIs**
-- 🌱 Improving skills in **Advanced Laravel, API Architecture, and Database Optimization**
-- 🛠️ Practicing **Clean Code, SOLID Principles, Service Layer, Repository Pattern, and Best Practices**
-- ⚡ Exploring **performance tuning, scalable backend structure, and secure API development**
+-  Building **Laravel-based web applications and REST APIs**
+-  Improving skills in **Advanced Laravel, API Architecture, and Database Optimization**
+-  Practicing **Clean Code, SOLID Principles, Service Layer, Repository Pattern, and Best Practices**
+-  Exploring **performance tuning, scalable backend structure, and secure API development**
 
 ---
 
